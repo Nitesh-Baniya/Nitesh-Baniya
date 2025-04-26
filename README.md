@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Baniya</h1>
-<h3 align="center">A passionate frontend developer from Kathmandu, Nepal.</h3>
+<h3 align="center">A passionate learner from Kathmandu, Nepal.</h3>
 
 - 📫 How to reach me **niteshofficial876@gmail.com**
 
